@@ -1,6 +1,6 @@
-update=Wed 23 Sep 2015 06:47:27 PM CEST
+update=Son 27 Sep 2015 09:45:09 CEST
 version=1
-last_client=kicad
+last_client=eeschema
 [pcbnew]
 version=1
 LastNetListRead=
@@ -23,11 +23,21 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [general]
 version=1
 [eeschema]
 version=1
-LibDir=../kicad-chenit;../KiCad-Libraries/symbols
+LibDir=../KiCad-Libraries/symbols;../../kicad-chenit;../KiCad-Libraries
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -70,13 +80,3 @@ LibName38=RF_OEM_Parts
 LibName39=Sensors
 LibName40=TransistorParts
 LibName41=chenit
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
