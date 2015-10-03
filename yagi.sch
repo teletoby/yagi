@@ -1452,4 +1452,34 @@ Wire Wire Line
 	1100 1500 1500 1500
 Wire Wire Line
 	1500 1500 1500 1100
+$Comp
+L CONN_01X01 P14
+U 1 1 560FC371
+P 2000 700
+F 0 "P14" H 2000 800 50  0000 C CNN
+F 1 "CONN_01X01" V 2100 700 50  0000 C CNN
+F 2 "Wire_Pads:SolderWirePad_single_0-8mmDrill" H 2000 700 60  0001 C CNN
+F 3 "" H 2000 700 60  0000 C CNN
+	1    2000 700 
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CONN_01X01 P13
+U 1 1 560FC464
+P 1800 700
+F 0 "P13" H 1800 800 50  0000 C CNN
+F 1 "CONN_01X01" V 1900 700 50  0000 C CNN
+F 2 "Wire_Pads:SolderWirePad_single_0-8mmDrill" H 1800 700 60  0001 C CNN
+F 3 "" H 1800 700 60  0000 C CNN
+	1    1800 700 
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2000 900  2400 900 
+Connection ~ 2400 900 
+Wire Wire Line
+	1800 900  1800 1300
+Wire Wire Line
+	1800 1300 2400 1300
+Connection ~ 2400 1300
 $EndSCHEMATC
