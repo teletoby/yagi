@@ -1,6 +1,6 @@
-update=Son 27 Sep 2015 09:45:09 CEST
+update=Sam 03 Okt 2015 10:08:19 CEST
 version=1
-last_client=eeschema
+last_client=kicad
 [pcbnew]
 version=1
 LastNetListRead=
@@ -20,9 +20,6 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
-[cvpcb]
-version=1
-NetIExt=net
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -80,3 +77,6 @@ LibName38=RF_OEM_Parts
 LibName39=Sensors
 LibName40=TransistorParts
 LibName41=chenit
+[cvpcb]
+version=1
+NetIExt=net

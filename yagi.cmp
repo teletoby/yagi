@@ -1,0 +1,851 @@
+Cmp-Mod V01 Created by PcbNew   date = Sam 03 Okt 2015 10:08:43 CEST
+
+BeginCmp
+TimeStamp = 560AEEE6
+Path = /5605B3BC
+Reference = U1;
+ValeurCmp = 74LS244;
+IdModule  = Housings_SOIC:SOIC-20_7.5x12.8mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 56109A18
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 56109A0C
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 561099F4
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 561099F0
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 5515DEA9
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = RPi_Hat:RPi_Hat_Mounting_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 55169DC9
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = RPi_Hat:RPi_Hat_Mounting_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5515DECC
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = RPi_Hat:RPi_Hat_Mounting_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 5515DEBF
+Path = 
+Reference = [NoRef];
+ValeurCmp = [NoVal];
+IdModule  = RPi_Hat:RPi_Hat_Mounting_Hole;
+EndCmp
+
+BeginCmp
+TimeStamp = 560975FD
+Path = /560883B1
+Reference = C1;
+ValeurCmp = 220uF;
+IdModule  = Capacitors_SMD:c_elec_6.3x7.7;
+EndCmp
+
+BeginCmp
+TimeStamp = 56097603
+Path = /5602D961
+Reference = C2;
+ValeurCmp = 47nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56097609
+Path = /5608867C
+Reference = C3;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5609760F
+Path = /5602D9E4
+Reference = C4;
+ValeurCmp = 47nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56097615
+Path = /56044BE3
+Reference = C5;
+ValeurCmp = 330pF;
+IdModule  = Capacitors_SMD:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5609761B
+Path = /5608531B
+Reference = C6;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56097621
+Path = /5608A144
+Reference = C8;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56097627
+Path = /5607E0D6
+Reference = C9;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56097633
+Path = /5602D7DE
+Reference = D3;
+ValeurCmp = RFU02VSM8STR;
+IdModule  = chenit:TUMD2SM;
+EndCmp
+
+BeginCmp
+TimeStamp = 5609763F
+Path = /5607AB0E
+Reference = IC1;
+ValeurCmp = AT24CS32-SSHM;
+IdModule  = Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5609764B
+Path = /5606EFFE
+Reference = L1;
+ValeurCmp = 15mH;
+IdModule  = chenit:SRR0908-Y;
+EndCmp
+
+BeginCmp
+TimeStamp = 56097651
+Path = /5607AB29
+Reference = P5;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 56097659
+Path = /560791F9
+Reference = Q1;
+ValeurCmp = STN0214;
+IdModule  = chenit:SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = 56097661
+Path = /56079B4A
+Reference = Q2;
+ValeurCmp = STN0214;
+IdModule  = chenit:SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = 56097668
+Path = /56079982
+Reference = Q3;
+ValeurCmp = MMBT4401;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 5609766E
+Path = /56085BEF
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 56097674
+Path = /56085CD8
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5609767A
+Path = /5602E2F0
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 56097680
+Path = /5602E2A3
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 56097686
+Path = /5602DD66
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5609768C
+Path = /5602D855
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 56097692
+Path = /56039B52
+Reference = R7;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 56097698
+Path = /56039FC1
+Reference = R8;
+ValeurCmp = 10M;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5609769E
+Path = /560393FA
+Reference = R9;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 560976A4
+Path = /56039383
+Reference = R10;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 560976AA
+Path = /560394E5
+Reference = R11;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5609799B
+Path = /560846F3
+Reference = J1;
+ValeurCmp = RPi_GPIO;
+IdModule  = RPi_Hat:Pin_Header_Straight_2x20;
+EndCmp
+
+BeginCmp
+TimeStamp = 56098BCE
+Path = /56086153
+Reference = D1;
+ValeurCmp = Led_Small;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56098BD4
+Path = /56086209
+Reference = D2;
+ValeurCmp = Led_Small;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56098C35
+Path = /5608A13E
+Reference = C7;
+ValeurCmp = 22uF;
+IdModule  = Capacitors_SMD:c_elec_5x4.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 560AEFD7
+Path = /5602E01C
+Reference = P1;
+ValeurCmp = HV+;
+IdModule  = Wire_Pads:SolderWirePad_single_1-2mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560AEFDC
+Path = /56044B01
+Reference = P2;
+ValeurCmp = HV-;
+IdModule  = Wire_Pads:SolderWirePad_single_1-2mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C1F99
+Path = /5608776A
+Reference = P3;
+ValeurCmp = CONN_01X01;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C1F9D
+Path = /56039730
+Reference = P4;
+ValeurCmp = CONN_01X01;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C2FC9
+Path = /560C4C1E
+Reference = D4;
+ValeurCmp = Led_Small;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C2FCF
+Path = /560C4D50
+Reference = D5;
+ValeurCmp = Led_Small;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C2FD5
+Path = /560C4B18
+Reference = D6;
+ValeurCmp = Led_Small;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C2FDB
+Path = /560C2FF3
+Reference = D7;
+ValeurCmp = Led_Small;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C2FE2
+Path = /560C832C
+Reference = P6;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C2FE8
+Path = /560C8C0D
+Reference = P7;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C2FE9
+Path = /5607AB22
+Reference = R12;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C2FEE
+Path = /5607AB31
+Reference = R13;
+ValeurCmp = 3.9k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C2FF3
+Path = /5607AB38
+Reference = R14;
+ValeurCmp = 3.9k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C2FFD
+Path = /560C4C24
+Reference = R15;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C3003
+Path = /560C4D56
+Reference = R16;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C3009
+Path = /560C4B1E
+Reference = R17;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C300F
+Path = /560C32A9
+Reference = R18;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C3015
+Path = /560C4239
+Reference = R19;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C301B
+Path = /560C43AC
+Reference = R20;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C3021
+Path = /560C4451
+Reference = R21;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 560C3027
+Path = /560C44F5
+Reference = R22;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 560EE267
+Path = /560EDCD7
+Reference = P8;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = 560EE26D
+Path = /560EE201
+Reference = P9;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = 560EE273
+Path = /560EEB10
+Reference = P10;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 560EE278
+Path = /560EE71C
+Reference = P11;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7A6C
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7A85
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7A8A
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7A8E
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7ACF
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7AD2
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7AD5
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7AD9
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7ADC
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7B71
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7B74
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7B78
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7B7B
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7B7E
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7B82
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7B84
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7B88
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7B8C
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7B92
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7B96
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BA1
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BB0
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BB2
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BB5
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BB7
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BB9
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BBD
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BBF
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BC3
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BC8
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BCB
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BD0
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BD3
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BD6
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BD9
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BDC
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BDE
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BE0
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BE3
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BE7
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7BE9
+Path = 
+Reference = REF**;
+ValeurCmp = SolderWirePad_single_0-8mmDrill;
+IdModule  = Wire_Pads:SolderWirePad_single_0-8mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 560F7DB9
+Path = /560F8068
+Reference = P12;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+EndListe
